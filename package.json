@@ -1,8 +1,9 @@
 {
+  "homepage": "https://the-catalystmc.github.io/hello-react-front-end/",
   "name": "hello-react-front-end",
   "version": "0.1.0",
   "private": true,
-  "author": "PUT YOU NAME HERE",
+  "author": "Rhyine",
   "license": "ISC",
   "keywords": [
     "mktapp"

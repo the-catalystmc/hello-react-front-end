@@ -1,0 +1,13 @@
+
+.App {
+  text-align: center;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  font-size: 80px;
+  background-color: yellow;
+}
